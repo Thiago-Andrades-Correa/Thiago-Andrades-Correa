@@ -59,8 +59,7 @@ Tenho interesse em **tecnologia e empreendedorismo**, buscando crescer profissio
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiago-Andrades-Correa&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Andrades-Correa&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thiago-Andrades-Correa&theme=radical" />
 </p>
 
 ---
