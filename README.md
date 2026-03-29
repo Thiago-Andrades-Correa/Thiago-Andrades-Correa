@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Thiago
+🚀 **Cursando Análise e Desenvolvimento de Sistemas** 
 
-🚀 **Cursando Análise e Desenvolvimento de Sistemas**
 🇧🇷 Brasil
 
 Sou um desenvolvedor em formação, focado em **Java, POO e lógica de programação**.
