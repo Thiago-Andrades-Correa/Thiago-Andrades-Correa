@@ -12,23 +12,47 @@ Tenho interesse em **tecnologia e empreendedorismo**, buscando crescer profissio
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://github.com/Thiago-Andrades-Correa">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" width="52" />
-  </a>
+<div align="left">
+  |<a href="https://github.com/Thiago-Andrades-Correa" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      height="40"
+      alt="github logo"
+      width="52"
+    />
+  </a>|
+  
   <a href="https://www.linkedin.com/in/thiago-andrades-0b82751a0/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="linkedin logo" 
+    />
+  </a>|
+  
   <a href="https://web.facebook.com/thiagocorrea012/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+      width="52"
+      height="40"
+      alt="facebook logo"
+    />
+  </a>|
+
   <a href="https://wa.me/5512997825235">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+      width="52"
+      height="40"
+      alt="whatsapp logo"
+    />
+  </a>|
+  
   <a href="https://www.instagram.com/th.corr/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="52"
+      height="40"
+      alt="instagram logo"
+    />
+  </a>|
+</div>
 
 ---
 
