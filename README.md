@@ -14,7 +14,19 @@ Tenho interesse em **tecnologia e empreendedorismo**, buscando crescer profissio
 
 <p align="left">
   <a href="https://github.com/Thiago-Andrades-Correa">
-    <img src="https://img.shields.io/badge/GitHub-Thiago--Andrades--Correa-181717?style=for-the-badge&logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" width="52" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-andrades-0b82751a0/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/thiagocorrea012/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/5512997825235">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/th.corr/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </p>
 
@@ -88,3 +100,26 @@ Tenho interesse em **tecnologia e empreendedorismo**, buscando crescer profissio
 <p align="center">
   <img src="https://raw.githubusercontent.com/Thiago-Andrades-Correa/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+
+<div align="left">
+  
+  
+</div>
+
+###
