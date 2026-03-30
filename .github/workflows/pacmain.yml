@@ -2,11 +2,11 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
-    - main
+    - main  # Verifique se sua branch principal ainda é 'main' ou se é 'ruset'
 
 jobs:
   generate:
@@ -16,18 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Gera a animação forçando o comportamento do Pac-Man sobre TODAS as cores
       - name: generate-snake-game-from-github-contribution-grid
-        uses: platane/snk@v2 # Usando a versão 2 para controle de paleta mais preciso
+        uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f7df1e&color_dots=#bfbdbe,#f7df1e
-        # O truque aqui é usar color_dots=#bfbdbe,#f7df1e. Isso diz ao script
-        # que o Pac-Man deve considerar tanto o cinza de fundo quanto o
-        # amarelo dele próprio como alvos/caminhos válidos, o que o força a
-        # passar por cima das cores de contribuição reais para chegar neles.
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#f7df1e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f7df1e
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
